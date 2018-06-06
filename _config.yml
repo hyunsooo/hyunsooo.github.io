@@ -1,17 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          HYUNSOO'S TECH BLOG
+description:    "현수의 기술 블로그"
+url:            "https://hyunsooo.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Hyunsoo Han
+  url:          https://github.com/hyunsooo
+  email:        hyunsooo__@naver.com
 
 # Build settings
-markdown:       kramdown
+  markdown:       kramdown
 
 # Assets
 sass:

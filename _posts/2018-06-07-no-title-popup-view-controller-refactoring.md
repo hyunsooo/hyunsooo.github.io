@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2018년 6월 7일"
+title: "팝업 컨트롤러 리팩토링"
 author: "한현수"
 ---
 

@@ -12,7 +12,7 @@ EP의 팝업을 담당하는 컨트롤러인 `NoTitlePopupViewController`의 모
 목적은 `viewmode`라는 쓰레기를 없애버리고 싶었다.
 `viewmode`는 `Int`형 데이터로 팝업의 구분값으로 1년 반 넘게 사용되고 있었다. 이를 `enum` 형태의 Key 배열로 전환, 깔끔한 `switch (key) { - }`로 팝업을 구분 짓고 싶었다.
 
-```[swift]
+```swift
 enum PopupKey {
 	case deleteFile
 	case deleteFolder
